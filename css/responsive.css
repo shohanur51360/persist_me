@@ -1,0 +1,555 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 480px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+.header-top ul.navbar-nav.ml-auto {
+    text-align: center!important;
+}
+.header-top .navbar-collapse {
+    background: #ccc!important;
+    border-radius: 20px!important;
+}
+.navbar-light .navbar-nav .active>.nav-link {
+    margin: 28px 0px 0px 0px!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    margin: 0px 0px 0px 0px!important;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color: #0160FF!important;
+}
+.btn-1 {
+    margin: 0px auto!important;
+    margin-bottom: 26px!important;
+}
+.hb-left h1 {
+    margin: -25px 0px 30px 0px!important;
+    font-size: 42px!important;
+}
+.hb-left h3 {
+    font-size: 20px!important;
+}
+.sponser-section img {
+    height: 12px!important;
+}
+.sponser-section {
+    padding: 35px 0px!important;
+}
+.banner-right p {
+    font-size: 16px!important;
+}
+.fecard1 .card {
+    margin-bottom: 25px!important;
+}
+.fecard2 .card {
+    margin-bottom: 25px!important;
+}
+.fecard3 .card {
+    margin-bottom: 25px!important;
+}
+.fecard4 .card {
+    margin-top: 0px!important;
+}
+.fecard5 .card {
+    margin-top: 25px!important;
+}
+.workbotmcard1 .card{
+	margin-bottom: 25px!important;
+}
+.workbotmcard2 .card{
+	margin-bottom: 25px!important;
+}
+.box1 ul li h3 {
+    margin: 0px 0px 0px 115px!important;
+}
+.box2 ul li h3 {
+    margin: 0px 0px 0px 90px!important;
+}
+.box3 ul li h3 {
+    margin: 0px 0px 0px 109px!important;
+}
+.box4 ul li h3 {
+    margin: 0px 0px 0px 121px!important;
+}
+.box5 ul li h3 {
+    margin: 0px 0px 0px 57px!important;
+}
+.box6 ul li h3 {
+    margin: 0px 0px 0px 35px!important;
+}    
+.box2 h4 {
+    margin: 0px 0px 10px 0px!important;
+}
+.box3 h4 {
+    margin: 0px 0px 31px 0px!important;
+}
+.box4 h4 {
+    margin: 0px 0px 14px 0px!important;
+}
+.box2 {
+    margin-bottom: 33px!important;
+}
+.box3 {
+    margin-bottom: 33px!important;
+}
+.box4 {
+    margin-bottom: 33px!important;
+}
+.box5 {
+    margin-bottom: 33px!important;
+}
+.box1 .divedier {
+    width: 290px!important;
+}
+.box2 .divedier {
+    width: 290px!important;
+}
+.box3 .divedier {
+    width: 290px!important;
+}
+.box4 .divedier {
+    width: 290px!important;
+}
+.box5 .divedier {
+    width: 290px!important;
+}
+.box6 .divedier {
+    width: 290px!important;
+}
+.questionleft h4 {
+    margin: 0px 0px 0px 0px!important;
+    font-size: 21px!important;
+}
+.questionright {
+    margin: 39px 0px 0px 0px!important;
+}
+.questionright form {
+    width: 100%!important;
+}
+.questionright input#inputAddress2 {
+    margin: 0px 0px 0px 3px!important;
+    width: 100%!important;
+}
+.questionright textarea#exampleFormControlTextarea1 {
+    width: 100%!important;
+    margin: 0px 0px 18px 13px!important;
+}
+.fbleft {
+    margin: 0px 0px 12px 0px!important;
+    text-align: center!important;
+}
+.fbright {
+    text-align: center!important;
+}
+.back-to-top {
+    margin: 0px 0px 0px 0px!important;
+}
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+.header-top img {
+    width: 100%!important;
+}
+.header-top ul.navbar-nav.ml-auto {
+    text-align: center!important;
+}
+.header-top .navbar-collapse {
+    background: #ccc!important;
+    border-radius: 20px!important;
+}
+.navbar-light .navbar-nav .active>.nav-link {
+    margin: 28px 0px 0px 0px!important;
+    font-size: 20px!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    margin: 0px 0px 0px 0px!important;
+    font-size: 20px!important;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color: #0160FF!important;
+}
+.btn-1 {
+    margin: 0px auto!important;
+    margin-bottom: 26px!important;
+    font-size: 20px!important;
+    padding: 12px 57px!important;
+}
+.hb-left h1 {
+    margin: -25px 0px 30px 0px!important;
+    font-size: 66px!important;
+    line-height: 88px!important;
+}
+.hb-left h3 {
+    font-size: 28px!important;
+}
+.sponser-section img {
+    height: 17px!important;
+}
+.sponser-section {
+    padding: 50px 0px!important;
+}
+.banner-right p {
+    font-size: 22px!important;
+}
+.fecard1 .card {
+    margin-bottom: 28px!important;
+}
+.fecard2 .card {
+    margin-bottom: 28px!important;
+}
+.fecard3 .card {
+    margin-bottom: 28px!important;
+}
+.fecard4 .card {
+    margin-top: 0px!important;
+}
+.fecard5 .card {
+    margin-top: 28px!important;
+}
+.workbotmcard1 .card{
+	margin-bottom: 28px!important;
+}
+.workbotmcard2 .card{
+	margin-bottom: 28px!important;
+}
+.box1 ul li h3 {
+    margin: 0px 0px 0px 276px!important;
+}
+.box2 ul li h3 {
+    margin: 0px 0px 0px 251px!important;
+}
+.box3 ul li h3 {
+    margin: 0px 0px 0px 270px!important;
+}
+.box4 ul li h3 {
+    margin: 0px 0px 0px 282px!important;
+}
+.box5 ul li h3 {
+    margin: 0px 0px 0px 218px!important;
+}
+.box6 ul li h3 {
+    margin: 0px 0px 0px 196px!important;
+}   
+.box2 h4 {
+    margin: 0px 0px 27px 0px!important;
+}
+.box3 h4 {
+    margin: 0px 0px 51px 0px!important;
+}
+.box4 h4 {
+    margin: 0px 0px 33px 0px!important;
+}
+.box2 {
+    margin-bottom: 33px!important;
+}
+.box3 {
+    margin-bottom: 33px!important;
+}
+.box4 {
+    margin-bottom: 33px!important;
+}
+.box5 {
+    margin-bottom: 33px!important;
+}
+.box1 .divedier {
+    width: 449px!important;
+}
+.box2 .divedier {
+    width: 449px!important;
+}
+.box3 .divedier {
+    width: 449px!important;
+}
+.box4 .divedier {
+    width: 449px!important;
+}
+.box5 .divedier {
+    width: 449px!important;
+}
+.box6 .divedier {
+    width: 449px!important;
+}
+.questionleft h1 {
+    font-size: 58px!important;
+    line-height: 65px!important;
+}
+.questionleft p {
+    margin: 0px 0px 29px 0px!important;
+    font-size: 21px!important;
+    line-height: 33px!important;
+}
+.questionleft h4 {
+    margin: 0px 0px 0px 0px!important;
+    font-size: 21px!important;
+}
+.questionright {
+    margin: 39px 0px 0px 0px!important;
+}
+.questionright .form-control {
+    width: 379px!important;
+    padding: 33px 22px!important;
+}
+.questionright form {
+    width: 100%!important;
+}
+.questionright input#inputAddress2 {
+    margin: 0px 0px 0px 14px!important;
+    width: 150%!important;
+}
+.questionright textarea#exampleFormControlTextarea1 {
+    width: 170%!important;
+    margin: 0px 0px 0px 13px!important;
+}
+.btn-5 {
+    margin: 167px 0px 0px -216px!important;
+}
+.foter1 h2 {
+    margin: 50px 0px 13px 0px!important;
+    line-height: 39px!important;
+    font-size: 20px!important;
+}
+.divedier-2 {
+    margin: 73px 0px 0px 0px!important;
+}
+.fbleft {
+    margin: 0px 0px 12px 0px!important;
+    text-align: center!important;
+}
+.fbright {
+    text-align: center!important;
+}
+.back-to-top {
+    margin: 0px 0px 0px 0px!important;
+}
+}
+
+/* 
+  ##Device = Tablets, Ipads
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  .header-top img {
+    width: 100%!important;
+}
+.header-top ul.navbar-nav.ml-auto {
+    text-align: center!important;
+}
+.header-top .navbar-collapse {
+    background: #ccc!important;
+    border-radius: 20px!important;
+}
+.navbar-light .navbar-nav .active>.nav-link {
+    margin: 28px 0px 0px 0px!important;
+    font-size: 20px!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    margin: 0px 0px 0px 0px!important;
+    font-size: 20px!important;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color: #0160FF!important;
+}
+.btn-1 {
+    margin: 0px auto!important;
+    margin-bottom: 26px!important;
+    font-size: 20px!important;
+    padding: 12px 57px!important;
+}
+.hb-left h1 {
+    margin: -25px 0px 35px 0px!important;
+    font-size: 73px!important;
+    line-height: 88px!important;
+}
+.hb-left h3 {
+    font-size: 23px!important;
+}
+.header-bottom {
+    padding: 90px 0px 44px!important;
+}
+.sponser-section img {
+    height: 30px!important;
+}
+.sponser-section {
+    padding: 63px 0px!important;
+}
+.banner-right p {
+    font-size: 22px!important;
+}
+.fecard1 .card {
+    width: 100%!important;
+    padding: 75px 0px!important;
+}
+.fecard2 .card {
+    width: 100%!important;
+    padding: 34px 0px!important;
+}
+.fecard3 .card {
+    width: 100%!important;
+    padding: 28px 0px!important;
+}
+.fecard4 .card {
+    width: 100%!important;
+    padding: 78px 0px!important;
+}
+.fecard5 .card {
+    width: 100%!important;
+    padding: 35px 0px!important;
+}
+.work-top h1 {
+    font-size: 43px!important;
+}
+.workbotmcard1 .card {
+    width: 100%!important;
+    padding: 92px 0px!important;
+}
+.workbotmcard2 .card{
+	width: 100%!important;
+}
+.workbotmcard3 .card{
+	width: 100%!important;
+	padding: 30px 0px!important;
+}
+.plan-top h1 {
+    font-size: 39px!important;
+}
+.box1 ul li h3 {
+    margin: 0px 0px 0px 35px!important;
+}
+.box2 ul li h3 {
+    margin: 0px 0px 0px 10px!important;
+}
+.box3 ul li h3 {
+    margin: 0px 0px 0px 29px!important;
+}
+.box4 ul li h3 {
+    margin: 0px 0px 0px 41px!important;
+}
+.box5 ul li h3 {
+    margin: 0px 0px 0px 136px!important;
+}
+.box6 ul li h3 {
+    margin: 0px 0px 0px 135px!important;
+}  
+.box2 h4 {
+    margin: 0px 0px 27px 0px!important;
+}
+.box3 h4 {
+    margin: 0px 0px 21px 0px!important;
+}
+.box4 h4 {
+    margin: 0px 0px 4px 0px!important;
+}
+.box5 h4 {
+    margin: 0px 0px 30px 0px!important;
+}
+.box6 h4 {
+    margin: 0px 0px 34px 0px!important;
+}
+.box2 {
+    margin-bottom: 33px!important;
+}
+.box3 {
+    margin-bottom: 33px!important;
+}
+.box4 {
+    margin-bottom: 33px!important;
+}
+.box5 {
+    margin-bottom: 33px!important;
+}
+.box1 .divedier {
+    width: 209px!important;
+}
+.box2 .divedier {
+    width: 209px!important;
+}
+.box3 .divedier {
+    width: 209px!important;
+}
+.box4 .divedier {
+    width: 209px!important;
+}
+.box5 .divedier {
+    width: 209px!important;
+}
+.box6 .divedier {
+    width: 209px!important;
+}
+.questionleft h1 {
+    font-size: 58px!important;
+    line-height: 65px!important;
+}
+.questionleft p {
+    margin: 0px 0px 29px 0px!important;
+    font-size: 21px!important;
+    line-height: 33px!important;
+}
+.questionleft h4 {
+    margin: 0px 0px 0px 0px!important;
+    font-size: 21px!important;
+}
+.questionright {
+    margin: 39px 0px 0px 0px!important;
+}
+.questionright .form-control {
+    width: 108%!important;
+    padding: 33px 22px!important;
+}
+.questionright form {
+    width: 100%!important;
+}
+.questionright input#inputAddress2 {
+    margin: 0px 0px 0px 14px!important;
+    width: 103%!important;
+}
+.questionright textarea#exampleFormControlTextarea1 {
+    width: 119%!important;
+    margin: 0px 0px 0px 13px!important;
+}
+.btn-5 {
+    margin: 167px 0px 0px -216px!important;
+}
+.foter1 img {
+    width: 87%!important;
+}
+.foter2 h1 {
+    font-size: 33px!important;
+}
+.foter3 h1 {
+    font-size: 33px!important;
+}
+.foter1 h2 {
+    margin: 50px 0px 13px 0px!important;
+    line-height: 39px!important;
+    font-size: 20px!important;
+}
+.divedier-2 {
+    margin: 73px 0px 0px 0px!important;
+}
+.fbleft {
+    margin: 0px 0px 12px 0px!important;
+    text-align: center!important;
+}
+.fbright {
+    text-align: center!important;
+}
+.footer-btm {
+    padding: 51px 0px!important;
+}
+.back-to-top {
+    margin: 0px 0px 0px 0px!important;
+}
+}
+
+
+
